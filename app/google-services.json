@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "353793479897",
+    "project_id": "earthling-2dead",
+    "storage_bucket": "earthling-2dead.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:353793479897:android:9e383f7de3d2fe258f1ac8",
+        "android_client_info": {
+          "package_name": "com.example.earthlings"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDNNzngVXa0Zva0pwpouOmYDGazUUQ4x4c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
